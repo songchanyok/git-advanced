@@ -28,3 +28,6 @@
     - `git push`
 5. 원격 저장소에서 Pull Request를 생성한다..
 6. PR(Pull Request)을 마무리한다(머지).
+
+### PUSH
+- git push명령어를 사용하면 로컬 저장소의 브랜치에 있는 커밋들을 원격 저장소에 특정 브랜치로 push해서 동기화 할 수 있다.
